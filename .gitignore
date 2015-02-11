@@ -1,0 +1,11 @@
+.idea
+.iml
+*.pyc
+.pyc
+odoolib/
+alembic.ini
+static/uploads/*
+Makefile
+_build/
+pdfs/*
+

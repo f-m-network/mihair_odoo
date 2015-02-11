@@ -1,0 +1,35 @@
+# set .virtual env
+#
+# Kaon local settings
+#
+
+# BASIC INFO
+export project_name=mihair_spree
+export project_path=/opt/python/apps/mihair_spree
+
+# MIHAIR_CHERRYPY INFO
+export MIHAIR_CHERRYPY_URL='127.0.0.1:8000'
+export MIHAIR_CHERRYPY_PATH=/opt/python/apps/mihair_cherrypy/static
+
+# Spree
+export API_URL=https://mihairstore.herokuapp.com/api
+export TOKEN=227d860c6af94bac7cd79beea2fa8cea3390a745fdcf1d4f
+
+# Sentry
+export SENTRY_ID=796502a4172d4747b149b352966b7917:e9e317071819464ab9ce1483efa1f8fa
+
+# Odoo Credentials
+export ODOO_URL='http://who.odoo.rocks:8069'
+export ODOO_DB='fmn'
+export ODOO_USER='admin'
+export ODOO_PASSWORD='fmn010200'
+
+# MAILGUN
+export MG_FROM_NAME=mi.Hair Purchase Order
+export MG_FROM_EMAIL=no-reply@qn.co.ve
+export MG_HOST_URL=qn.co.ve
+export MG_API_KEY=key-7o5ovxk508-zly-12nyejhxr52m302x9
+export MG_SMTP_USER=postmaster@qn.co.ve
+export MG_SMTP_PASSWORD=0967pxrgn462
+
+

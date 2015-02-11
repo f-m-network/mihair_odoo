@@ -1,0 +1,12 @@
+Fabric==1.9.1
+argparse==1.2.1
+ecdsa==0.11
+ipython==2.2.0
+odoolib==0.1
+paramiko==1.14.0
+pycrypto==2.6.1
+raven==5.0.0
+requests==2.3.0
+simplejson==3.6.0
+stripe==1.19.0
+wsgiref==0.1.2
